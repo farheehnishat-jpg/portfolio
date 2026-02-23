@@ -1,6 +1,6 @@
 ## EMAAR Properties Stock Performance Dashboard
 
-![EMAAR Dashboard](emaar-stock-dashboard.png)
+![EMAAR Dashboard](emaar_dashboard.png)
 
 ### Key Insights
 - 170% price growth post-COVID recovery
